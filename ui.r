@@ -20,6 +20,7 @@ shinyUI(
         menuItem("Team Members", tabName = "team_members",icon=icon("user-friends")),
         menuSubItem("Ashwin S", tabName = "Ashwin"),
         menuSubItem("Susmitha C B", tabName = "Susmitha"),
+        menuSubItem("Vigneswaran", tabName = "Vigneswaran"),
         menuSubItem("Ganeshprasad A", tabName = "Ganeshprasad")
       )
     ),
